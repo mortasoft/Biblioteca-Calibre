@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">187</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">87c1c026-c31d-40c7-baf6-e681f4a23e90</dc:identifier>
+        <dc:title>Arduino Experimenter's Kit: SketchBoard Edition</dc:title>
+        <dc:creator opf:file-as="www.oomlout.com" opf:role="aut">www.oomlout.com</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.37.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>Arduino</dc:subject>
+        <dc:subject>Electronica</dc:subject>
+        <meta content="{&quot;www.oomlout.com&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-01-21T19:03:22.868334+00:00" name="calibre:timestamp"/>
+        <meta content="Arduino Experimenter's Kit: SketchBoard Edition" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#leido" content="{&quot;is_category&quot;: false, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;is_csp&quot;: false, &quot;colnum&quot;: 1, &quot;column&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#leido&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;is_multiple2&quot;: {}, &quot;is_multiple&quot;: null, &quot;datatype&quot;: &quot;bool&quot;, &quot;#value#&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;is_editable&quot;: true, &quot;label&quot;: &quot;leido&quot;, &quot;display&quot;: {}, &quot;name&quot;: &quot;Leido&quot;}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
